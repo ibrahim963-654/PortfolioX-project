@@ -122,6 +122,8 @@ body {
 .nav-btn:hover {
   opacity: 0.9;
   transform: translateY(-1px);
+   box-shadow: 0 6px 20px rgba(97, 218, 251, 0.4);
+  filter: brightness(1.1);
 }
 
 .content {
